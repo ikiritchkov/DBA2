@@ -1,0 +1,5 @@
+start './create_wkis.sql'
+start './constraints_wkis.sql'
+start './load_wkis.sql'
+start './A1_errors.sql'
+start './A2.sql'

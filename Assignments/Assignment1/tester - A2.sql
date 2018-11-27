@@ -1,0 +1,5 @@
+start '/mnt/hgfs/CPRG307/Assignments/Assignment1/create_wkis.sql'
+start '/mnt/hgfs/CPRG307/Assignments/Assignment1/constraints_wkis.sql'
+start '/mnt/hgfs/CPRG307/Assignments/Assignment1/load_wkis.sql'
+start '/mnt/hgfs/CPRG307/Assignments/Assignment1/A1_errors.sql'
+start '/mnt/hgfs/CPRG307/Assignments/Assignment1/A2.sql'

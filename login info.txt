@@ -1,0 +1,5 @@
+user: CPRG307
+password: password
+
+admin account: CPRG307a
+password: password
